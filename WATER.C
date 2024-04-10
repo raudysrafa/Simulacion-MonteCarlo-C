@@ -87,7 +87,7 @@ main(){
 
 	init_celda( );
 
-	for( h = 0; h < cuenta_g; h ++ )gbackup[h] = g[h] = 0.0;
+	/*for( h = 0; h < cuenta_g; h ++ )gbackup[h] = g[h] = 0.0;*/
 
 	i = 0;
 
